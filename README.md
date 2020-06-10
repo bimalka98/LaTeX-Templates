@@ -5,11 +5,12 @@
 
 #### LaTeX-Templates
 This repository includes templates composed using LaTeX. Feel free to clone them and use it for your own purpose. Almost all the LaTeX syntaxes you may need during composing a college assignment are given here. Ex:
-* Create a cover Page
-* Content Table
-* Include a figure/Picture
+* Create a suitable cover Page for a college assignment
+* Manage the bibliography
+* Include a figure
 * Include a Table
 * Include a mathematical Equation
+
 and many more.
 
 #### Note
