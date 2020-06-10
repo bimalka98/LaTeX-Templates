@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+
+\bibitem{main}
+Ieee standard for ethernet.
+\newblock {\em IEEE Std 802.3-2018 (Revision of IEEE Std 802.3-2015)}, pages
+  1--5600, 2018.
+
+\bibitem{pppoe}
+L.~Mamakos, D.~Simone, R.~Wheeler, D.~Carrel, J.~Evarts, and K.~Lidl.
+\newblock A {Method} for {Transmitting} {PPP} {Over} {Ethernet} ({PPPoE}).
+\newblock \url{https://tools.ietf.org/html/rfc2516#section-2}.
+
+\bibitem{ppp}
+W.~Simpson.
+\newblock The {Point}-to-{Point} {Protocol} ({PPP}) for the {Transmission} of
+  {Multi}-protocol {Datagrams} over {Point}-to-{Point} {Links}.
+\newblock \url{https://tools.ietf.org/html/rfc1331}.
+
+\end{thebibliography}

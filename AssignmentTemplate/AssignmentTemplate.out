@@ -1,0 +1,39 @@
+\BOOKMARK [1][-]{section.1}{IEEE 802.3i protocol \(10BASE-T standard\)}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Introduction}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Media Access control\(MAC\) sublayer}{subsection.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.2}{Framing}{section.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Preamble}{subsection.1.2}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.2}{SFD-Start Frame Delimiter}{subsection.1.2}% 6
+\BOOKMARK [3][-]{subsubsection.1.2.3}{Address Fields}{subsection.1.2}% 7
+\BOOKMARK [3][-]{subsubsection.1.2.4}{Length/Type Field}{subsection.1.2}% 8
+\BOOKMARK [3][-]{subsubsection.1.2.5}{MAC Client Data field}{subsection.1.2}% 9
+\BOOKMARK [3][-]{subsubsection.1.2.6}{Pad field}{subsection.1.2}% 10
+\BOOKMARK [3][-]{subsubsection.1.2.7}{Frame Check Sequence\(FCS\) field}{subsection.1.2}% 11
+\BOOKMARK [2][-]{subsection.1.3}{Addressing}{section.1}% 12
+\BOOKMARK [2][-]{subsection.1.4}{Flow control}{section.1}% 13
+\BOOKMARK [3][-]{subsubsection.1.4.1}{MAC control sublayer and MAC control frame}{subsection.1.4}% 14
+\BOOKMARK [3][-]{subsubsection.1.4.2}{PAUSE operation}{subsection.1.4}% 15
+\BOOKMARK [2][-]{subsection.1.5}{Error control}{section.1}% 16
+\BOOKMARK [2][-]{subsection.1.6}{Link Management\(Media access management\)}{section.1}% 17
+\BOOKMARK [1][-]{section.2}{Point to Point Protocol\(PPP\)}{}% 18
+\BOOKMARK [2][-]{subsection.2.1}{Introduction}{section.2}% 19
+\BOOKMARK [2][-]{subsection.2.2}{Framing}{section.2}% 20
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Flag field}{subsection.2.2}% 21
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Address Field}{subsection.2.2}% 22
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Control Field}{subsection.2.2}% 23
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Protocol Field}{subsection.2.2}% 24
+\BOOKMARK [3][-]{subsubsection.2.2.5}{Information Field}{subsection.2.2}% 25
+\BOOKMARK [3][-]{subsubsection.2.2.6}{Frame Check Sequence\(FCS\) Field }{subsection.2.2}% 26
+\BOOKMARK [2][-]{subsection.2.3}{Addressing}{section.2}% 27
+\BOOKMARK [2][-]{subsection.2.4}{Error control}{section.2}% 28
+\BOOKMARK [2][-]{subsection.2.5}{Link Management and Flow control}{section.2}% 29
+\BOOKMARK [3][-]{subsubsection.2.5.1}{LCP Frame format}{subsection.2.5}% 30
+\BOOKMARK [3][-]{subsubsection.2.5.2}{Establish a session}{subsection.2.5}% 31
+\BOOKMARK [1][-]{section.3}{Similarities, Differences, Strengths and Weaknesses in IEEE 802.3i protocol and Point-to-Point Protocol }{}% 32
+\BOOKMARK [2][-]{subsection.3.1}{Framing}{section.3}% 33
+\BOOKMARK [2][-]{subsection.3.2}{Addressing}{section.3}% 34
+\BOOKMARK [2][-]{subsection.3.3}{Flow Control}{section.3}% 35
+\BOOKMARK [2][-]{subsection.3.4}{Error Control}{section.3}% 36
+\BOOKMARK [2][-]{subsection.3.5}{Link Management}{section.3}% 37
+\BOOKMARK [1][-]{section.4}{Point-to-Point Protocol Over Ethernet\(PPPoE\)}{}% 38
+\BOOKMARK [1][-]{section*.2}{Bibliography}{}% 39
