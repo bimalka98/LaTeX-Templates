@@ -22,7 +22,7 @@ LaTeX is a professional document processing Platform which is used world wide by
 ### LaTeX-Templates
 This repository includes templates composed using LaTeX. Feel free to clone them and use it for your own purpose.
 
-####`AssignmentTemplate`
+#### `AssignmentTemplate`
 
  Almost all the LaTeX syntaxes you may need during composing a college assignment are given here in an example document. All you need to do is download the `AssignmentTemplate` folder into your PC and change it as your wish. Otherwise you can simply fork this repo to your profile.
 
