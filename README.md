@@ -3,7 +3,7 @@
 
 # Try LaTeX...
 
-## It is time to say good bye to old document processors and shift into a more professional Platform for Scientific Writing.
+## It is time to say goodbye to old document processors and shift into a more professional Platform for Scientific Writing.
 
 
 # Why LaTeX
