@@ -4,7 +4,10 @@
 ## It is time to say good bye to old document processors and shift into a more professional Platform for Scientific Writing.
 
 #### LaTeX-Templates
-This repository includes templates composed using LaTeX. Feel free to clone them and use it for your own purpose. Almost all the LaTeX syntaxes you may need during composing a college assignment are given here. Ex:
+This repository includes templates composed using LaTeX. Feel free to clone them and use it for your own purpose. Almost all the LaTeX syntaxes you may need during composing a college assignment are given here in an example document. All you need to do is download the `AssignmentTemplate` file into your PC and change it as you wish. 
+
+Following features are included in the `AssignmentTemplate` template.
+
 * Create a suitable cover Page for a college assignment
 * Manage the bibliography
 * Include a figure
