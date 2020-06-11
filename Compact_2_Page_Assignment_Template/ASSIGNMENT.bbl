@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{arduino}
+Arduino {Mega} 2560 {Rev3} {\textbar} {Arduino} {Official} {Store}.
+\newblock \url{https://store.arduino.cc/usa/mega-2560-r3}.
+
+\bibitem{icsp}
+arduino uno - {ICSP} pin, what is it actually?
+\newblock
+  \url{https://arduino.stackexchange.com/questions/40098/icsp-pin-what-is-it-actually}.
+
+\bibitem{lowdrop}
+{LD1117xx} {Datasheet} - {STMicroelectronics} {\textbar} {DigiKey}.
+\newblock
+  \url{https://www.digikey.com/en/datasheets/stmicroelectronics/stmicroelectronics-en-cd00000544#pfd}.
+
+\bibitem{crystal}
+Crystal {Oscillator} : {Working} and {Its} {Various} {Applications}.
+\newblock
+  \url{https://www.watelectronics.com/crystal-oscillator-circuit-working-applications/},
+  September 2019.
+
+\bibitem{osci}
+{Wikipedia contributors}.
+\newblock Electronic oscillator --- {Wikipedia}{,} the free encyclopedia.
+\newblock
+  \url{https://en.wikipedia.org/w/index.php?title=Electronic_oscillator&oldid=953594751},
+  2020.
+\newblock [Online; accessed 28-April-2020 ].
+
+\end{thebibliography}

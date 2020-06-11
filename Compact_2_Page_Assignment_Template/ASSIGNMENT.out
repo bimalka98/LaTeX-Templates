@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Power Regulator Circuit}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Barrel connector}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Reverse Voltage Protection Diode}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Electrolytic Capacitors}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Non-polarized Capacitors}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{LD1117S50CTR Voltage Regulator IC}{section.1}% 6
+\BOOKMARK [1][-]{section.2}{Clock Circuit}{}% 7
+\BOOKMARK [2][-]{subsection.2.1}{Crystal Oscillator}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{In-system Programming/ In-circuit Serial Programming Circuit}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{ATMEGA16U2 microcontroller}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{ICSP1}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{ICSP}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Reset Circuit}{}% 13
+\BOOKMARK [2][-]{subsection.4.1}{Manual Method}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.2}{Reset through the ATMEGA16U2}{section.4}% 15
+\BOOKMARK [1][-]{section*.1}{Bibliography}{}% 16
