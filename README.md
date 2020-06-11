@@ -22,6 +22,9 @@ LaTeX is a professional document processing Platform which is used world wide by
 ### LaTeX-Templates
 This repository includes templates composed using LaTeX. Feel free to clone them or download and use it for your own purpose by changing the code.
 
+![TeXstudio Editor]{https://github.com/bimalka98/LaTeX-Templates/blob/master/Figures/TeXstudio.png}
+
+
 `.tex` file contains the actual LaTeX code.
 
 `.pdf` file is the resultant document for a given LaTeX code. You can first go through the .pdf file to check whether it is suitable for your purpose. And then choose the correct template.
