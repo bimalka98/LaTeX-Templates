@@ -10,7 +10,7 @@
 
 LaTeX is a professional document processing Platform which is used world wide by scientists, mathematicians, researchers, engineers,  university students and many more for composing their documents in a very professional way. It has become so popular because of its various awesome features. Some of them are given below.
 
-* Automatic content table creation with hyperlinks (You can check this by downloading the pdf file in the following folder)
+* Automatic content table creation with hyperlinks (You can check this by downloading the pdf file in the `Assignment_Template_8-15_Pages` folder)
 * Proper management of content in a  hierarchical manner where you do not have to worry about numbering of sections, subsections, subsubsections and so on.
 * Custom environments where you can type really complex mathematical expressions really easily.
 * Easy management of bibliography using bibTex.
