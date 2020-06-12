@@ -41,13 +41,13 @@ Simply follow these steps!
 
 If you are unable to understand any of these simply Google it or look in YouTube as there are vast number of good tutorials.
 
-### `AssignmentTemplate`
+### `Assignment_Template_8-15_Pages`
 
- Almost all the LaTeX syntaxes you may need during composing a college assignment are given here in an example document. All you need to do is download the `AssignmentTemplate` folder into your PC and change it as your wish. Otherwise you can simply fork this repo to your profile.
+Almost all the LaTeX syntaxes you may need during composing a college assignment are given here in an example document. All you need to do is download the `Assignment_Template_8-15_Pages` folder into your PC and change it as your wish. Otherwise you can simply fork this repo to your profile.
 
-Following features are included in the `AssignmentTemplate` template.
+Following features are included in the `Assignment_Template_8-15_Pages` template.
 
-* A standard cover Page for a college assignment
+* A standard cover Page for a College assignment
 * Manage bibliography using BibTeX
 * Include a figure, table, simple mathematical expression
 
