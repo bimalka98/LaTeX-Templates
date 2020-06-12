@@ -20,18 +20,16 @@ LaTeX is a professional document processing Platform which is used world wide by
 ### LaTeX-Templates
 This repository includes templates composed using LaTeX. Feel free to download any of them and use it for your own purpose by changing the code.
 
-![TeXstudio Editor](https://github.com/bimalka98/LaTeX-Templates/blob/master/Figures/TeXstudio.png)
-
-
-### How to use these Templates
-
-Keep these in mind
-
 `.tex` file contains the actual LaTeX code.
 
 `.pdf` file is the resultant document for a given LaTeX code. You can first go through the .pdf file to check whether it is suitable for your purpose. And then choose the correct template.
 
-Now simply follow these steps!
+![TeXstudio Editor](https://github.com/bimalka98/LaTeX-Templates/blob/master/Figures/TeXstudio.png)
+
+
+# How to use these Templates
+
+Simply follow these steps!
 
 1. Install a LaTeX Editor on your PC with required packages(These are like packages we install in programming languages). Refer `Note`  section for a video with a complete guide.
 2. Download the Template folder you need.
@@ -43,7 +41,7 @@ Now simply follow these steps!
 
 If you are unable to understand any of these simply Google it or look in YouTube as there are vast number of good tutorials.
 
-#### `AssignmentTemplate`
+### `AssignmentTemplate`
 
  Almost all the LaTeX syntaxes you may need during composing a college assignment are given here in an example document. All you need to do is download the `AssignmentTemplate` folder into your PC and change it as your wish. Otherwise you can simply fork this repo to your profile.
 
