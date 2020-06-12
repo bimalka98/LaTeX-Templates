@@ -58,8 +58,8 @@ and many more.
 ## Note
 Before use this templates you need to install a LaTeX Editor. I personally prefer `TeXstudio`. It is up to you to choose one.
 
-A complete guide for installation can be fount at https://www.youtube.com/watch?v=3q7zxSbGxyU&t=23s
+A complete guide for installation can be found at https://www.youtube.com/watch?v=3q7zxSbGxyU&t=23s
 
 Following video will be a good starting point for who is interested in learning further https://www.youtube.com/watch?v=Qjp-a2uZWZc&t=15s
 
-Hope to include many more templates in future so keep in touch.
+Hope to include many more templates in future so keep in touch. `Star` this repo so you can check it whenever you want, for the latest templates.
