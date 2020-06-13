@@ -61,7 +61,7 @@ and many more.
 
 
 ## Note
-Before use this templates you need to install a LaTeX Editor. I personally prefer `TeXstudio`. It is up to you to choose one.
+Before use this templates you need to install a LaTeX Editor. I personally prefer `TeXstudio`. It is up to you to choose one. `Installation procedure of the editor is little different` from a conventinal software installation therefore please refer following video.
 
 A complete guide for installation can be found at https://www.youtube.com/watch?v=3q7zxSbGxyU&t=23s
 
