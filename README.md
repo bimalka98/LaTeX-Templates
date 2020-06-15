@@ -41,8 +41,9 @@ Simply follow these steps!
 4. Change the following files.
 * `.tex` file --> This is where you need to replace my text with yours.
 * `.bib` file --> This is where you need to put your data related to bibliography. Most of the web sites provide required citation text with their publications and you need to download what is called `bibTex` format of citation. So you can directly copy and paste them into this `.bib` file. Otherwise you can simply copy and paste the URL of the publication in https://zbib.org/ and it will generate required BibTeX file for you.
-5. If you have any figures to be included in the document, you have to put all your figures into the `figures` file in order to import them into your doc as I have done.
-6. Now simply run the LaTeX code.
+5. If the template has a title page then you need to modify the `title_page.tex` file in the content folder.
+6. If you have any figures to be included in the document, you have to put all your figures into the `figures` file in order to import them into your doc as I have done.
+7. Now simply run the LaTeX code.
 
 If you are unable to understand any of these simply Google it or look in YouTube as there are vast number of good tutorials.
 
