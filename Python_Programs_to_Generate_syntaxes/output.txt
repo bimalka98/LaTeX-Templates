@@ -1,0 +1,5 @@
+\begin{table}[!h]
+	\begin{tabular}{c c c }
+	\end{tabular}
+	\caption{'Table caption here.'}
+\end{table}

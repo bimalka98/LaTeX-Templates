@@ -1,0 +1,4 @@
+Part ,Allocated bits,Purpose
+Part 1,1 ,Use to identify whether the Destination address is an individual or a group.If it is individual this first bit is set to ‘0’. Otherwise it is set to ‘1’. In Source address field this bit is reserved and set to ‘0’.
+Part 2 ,1 ,Use to indicate whether an address is globally administered or locally administered. If global this bit is set to ‘0’. Otherwise it is set to ‘1’.
+Part 3 ,46 ,Contains the actual destination or source address.
