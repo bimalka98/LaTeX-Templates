@@ -10,7 +10,7 @@
 
 LaTeX is a professional document processing Platform which is used world wide by scientists, mathematicians, researchers, engineers,  university students and many more for composing their documents in a very professional way. It has become so popular because of its various awesome features. Some of them are given below.
 
-* Automatic content table creation with hyperlinks (You can check this by downloading the pdf file in the `Assignment_Template_8-15_Pages` folder)
+* Automatic content table creation with hyperlinks (You can check this by downloading the pdf file  corresponding to `Assignment_Template_8-15_Pages` [View PDF](https://github.com/bimalka98/LaTeX-Templates/blob/master/Assignment_Template_8-15_Pages.pdf))
 * Proper management of content in a  hierarchical manner where you do not have to worry about numbering of sections, subsections, subsubsections and so on.
 * Custom environments where you can type really complex mathematical expressions really easily.
 * Easy management of bibliography using bibTex.
@@ -49,7 +49,7 @@ If you are unable to understand any of these simply Google it or look in YouTube
 
 ### `Assignment_Template_8-15_Pages`
 
-Almost all the LaTeX syntaxes you may need during composing a college assignment are given here in an example document. All you need to do is download the `Assignment_Template_8-15_Pages` folder into your PC and change it as your wish. Otherwise you can simply fork this repo to your profile.
+Almost all the LaTeX syntaxes you may need during composing a college assignment are given here in an example document. All you need to do is download the `Assignment_Template_8-15_Pages` folder into your PC and change it as your wish.
 
 Following features are included in the `Assignment_Template_8-15_Pages` template.
 
@@ -68,4 +68,4 @@ A complete guide for installation can be found at https://www.youtube.com/watch?
 
 Following video will be a good starting point for who is interested in learning further https://www.youtube.com/watch?v=Qjp-a2uZWZc&t=15s
 
-Hope to include many more templates in future so keep in touch. `Star` this repo so you can check it whenever you want, for the latest templates OR `Follow` me.
+Hope to include many more templates in future so keep in touch. `Star` this repo so you can check it whenever you want, for the latest templates OR `Follow` me if you are a github user.
