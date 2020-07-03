@@ -68,4 +68,4 @@ A complete guide for installation can be found at https://www.youtube.com/watch?
 
 Following video will be a good starting point for who is interested in learning further https://www.youtube.com/watch?v=Qjp-a2uZWZc&t=15s
 
-Hope to include many more templates in future so keep in touch. `Star` this repo so you can check it whenever you want, for the latest templates OR `Follow` me if you are a github user.
+Hope to include many more templates in future so keep in touch. `Star` this repo so you can check it whenever you want, for the latest templates OR `Follow` me.
