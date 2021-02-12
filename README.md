@@ -6,15 +6,21 @@
 ## Still using a conventional `Microsoft word` like word processing software to process your college documents ?
 
 # Try LaTeX...
-
 ## It is time to say goodbye to old document processors and shift into a more professional Platform for Scientific Writing.
 
+### Check some of the pdfs rendered through LaTeX
+
+1. [Assignment Template- Including-codes, mathematical equations](https://nbviewer.jupyter.org/github/bimalka98/LaTeX-Templates/blob/master/Assignment%20Template-%20Including-codes%2C%20mathematical%20equations.pdf)
+2. [Assignment Template 2 Pages Compact](https://nbviewer.jupyter.org/github/bimalka98/LaTeX-Templates/blob/master/Assignment_Template_2_Pages_Compact/ASSIGNMENT.pdf)
+3. [Assignment Template 8-15 Pages](https://nbviewer.jupyter.org/github/bimalka98/LaTeX-Templates/blob/master/Assignment_Template_8-15_Pages/AssignmentTemplate.pdf)
+4. [Assignment Template Group- 3 pages compact](https://nbviewer.jupyter.org/github/bimalka98/LaTeX-Templates/blob/master/Assignment_Template_Group_3_pages_compact/document.pdf)
+5. [Clickable CV Template](https://nbviewer.jupyter.org/github/bimalka98/LaTeX-Templates/blob/master/Clickable-CV-Template/document.pdf)
 
 # Why LaTeX
 
 LaTeX is a professional document processing Platform which is used world wide by scientists, mathematicians, researchers, engineers,  university students and many more for composing their documents in a very professional way. It has become so popular because of its various awesome features. Some of them are given below.
 
-* Automatic content table creation with hyperlinks (You can check this by downloading the pdf file  corresponding to `Assignment_Template_8-15_Pages` [View PDF](https://github.com/bimalka98/LaTeX-Templates/blob/master/Assignment_Template_8-15_Pages.pdf))
+* Automatic content table creation with hyperlinks
 * Proper management of content in a  hierarchical manner where you do not have to worry about numbering of sections, subsections, subsubsections and so on.
 * Custom environments where you can type really complex mathematical expressions really easily.
 * Easy management of bibliography using bibTex.
