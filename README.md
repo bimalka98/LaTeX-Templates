@@ -1,4 +1,4 @@
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6792088506199093248" height="658" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 
 ## Still using a conventional `Microsoft word` like word processing software to process your college documents ?
 
