@@ -1,0 +1,32 @@
+%% packages
+
+\usepackage{blindtext} % needed for creating dummy text passages
+%\usepackage{ngerman} % needed for German default language
+\usepackage{amsmath} % needed for command eqref
+\usepackage{amssymb} % needed for math fonts
+\usepackage[colorlinks=true,breaklinks]{hyperref} % needed for creating hyperlinks in the document, the option colorlinks=true gets rid of the awful boxes, breaklinks breaks lonkg links (list of figures), and ngerman sets everything for german as default hyperlinks language
+\usepackage[hyphenbreaks]{breakurl} % benötigt für das Brechen von URLs in Literaturreferenzen, hyphenbreaks auch bei links, die über eine Seite gehen (mit hyphenation).
+\usepackage{xcolor}
+\definecolor{c1}{rgb}{0,0,1} % blue
+\definecolor{c2}{rgb}{0,0.3,0.9} % light blue
+\definecolor{c3}{rgb}{0.3,0,0.9} % red blue
+\hypersetup{
+    linkcolor={c1}, % internal links
+    citecolor={c2}, % citations
+    urlcolor={c3} % external links/urls
+}
+%\usepackage{cite} % needed for cite
+\usepackage[square,authoryear]{natbib} % needed for cite and abbrvnat bibliography style
+\usepackage[nottoc]{tocbibind} % needed for displaying bibliography and other in the table of contents
+\usepackage{graphicx} % needed for \includegraphics 
+\usepackage{longtable} % needed for long tables over pages
+\usepackage{bigstrut} % needed for the command \bigstrut
+\usepackage{enumerate} % needed for some options in enumerate
+%\usepackage{todonotes} % needed for todos
+\usepackage{makeidx} % needed for creating an index
+\makeindex
+\usepackage{gensymb}
+\usepackage{url}
+\usepackage{psfrag}
+\usepackage{multirow}
+\usepackage{subfigure}
