@@ -80,3 +80,5 @@ and many more.😉
 - A complete guide for installation can be found [here](https://youtu.be/TWRP_94eock)
 
 - [This](https://www.youtube.com/watch?v=Qjp-a2uZWZc&t=15s) video will be a good starting point for those who are interested in learning further. It is the one I used to learn LaTeX. In addition to that there are  lots of good tutorials on [YouTube](https://youtube.com/playlist?list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)! 😁
+
+### *Save this repositories with a star if you find it useful!* ⭐ *Starring makes it easy to find a repository or topic again later. You can see all the repositories and topics you have starred by going to your [stars page](https://github.com/stars).*
