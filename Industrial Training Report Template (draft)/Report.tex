@@ -1,0 +1,92 @@
+%---------------------------------------------------------------------------
+%
+%  Author         : Bimalka Piyaruwan Thalagala
+%  GitHub         : https://github.com/bimalka98
+%  Last Modified  : 2022-06-01
+%  ----------------------------------------------------------------------------
+
+\documentclass[a4paper,12pt]{report}%,twocolumn
+\input{settings/packages}
+\input{settings/page}
+\input{settings/macros}
+
+
+\begin{document}
+	
+\input{content/title_page}
+%---------------------------------------------------------------------------
+
+
+\chapter*{Preface}
+\addcontentsline{toc}{chapter}{Preface}
+% A brief account of the Preface
+
+ 
+\cleardoublepage
+%---------------------------------------------------------------------------
+
+
+\chapter*{Acknowledgment}
+\addcontentsline{toc}{chapter}{Acknowledgment}
+%Appreciation of those who helped in the internship process
+
+
+%---------------------------------------------------------------------------
+
+\tableofcontents %Three header levels (e.g. 2.7.1) are adequate
+\vfill
+\begin{center}
+	\textbf{\textit{*PDF is clickable}}
+\end{center}
+
+%---------------------------------------------------------------------------
+
+%Descriptions of Abbreviations used
+\chapter*{List of Abbreviations}
+\addcontentsline{toc}{chapter}{List of Abbreviations}
+\begin{acronym}
+	\acro{oop}[OOP ]{Object Oriented Programming }
+	\acro{rpi}[RPi]{Raspberry Pi}
+\end{acronym}
+
+%---------------------------------------------------------------------------
+\listoffigures %Figures (including charts) Numbered as per the Chapter
+%---------------------------------------------------------------------------
+\listoftables %Tables Numbered as per the Chapter
+%---------------------------------------------------------------------------
+
+
+
+\pagebreak
+\chapter{Description of the organization and business, its past, present and	future}
+
+\section{Use of Acronyms}
+
+
+I have used \ac{oop}. \ac{oop} is a very powerful tool. \Ac{rpi} is a single board computer. 
+
+\chapter{Description of familiarization work carried out}
+
+\chapter{Exposure to systems (HSE, Financial, Administration, Logistics, etc.)}
+
+\chapter{Project Work}
+
+\chapter{Hands on experiences}
+
+\chapter{Soft Skills Development}
+
+\chapter{SWOT Analysis of the organization and self}
+
+\chapter{Conclusion: Own perspective of areas to be improved (of the whole training process including self)}
+
+
+\begin{appendices}
+	\chapter{Guidelines}
+\end{appendices}
+
+\bibliographystyle{plain}
+\bibliography{refer}
+
+%---------------------------------------------------------------------------
+\end{document}
+-
