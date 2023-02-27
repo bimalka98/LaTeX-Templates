@@ -1,3 +1,5 @@
+***Notice***: *I no longer maintain this repository. Instead, I add the latex reports projectwise in my project repositories. You may find better latex reports there with quite advanced features. By the way, this repo will be a good place to start if you are a beginner!*
+
 ##  *Still using a conventional `Microsoft word` like word processing software to process your college documents ?* 🤔
 
 # Try LaTeX... ☜(ﾟヮﾟ☜)
